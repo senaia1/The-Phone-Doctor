@@ -46,7 +46,7 @@
 <body>
 	<center><img src="img/header.png" width="90%">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<div id="MyLittleBrowser" style="width: 200px; height: 200px; border: 1px solid #000; overflow: scroll;"></div>
+<div id="MyLittleBrowser" style="width: 97vw; height: 90vh; border: 0px solid #000; overflow: hidden;"></div>
 <script>
   $("#MyLittleBrowser").load("https://crossorigin.me/http://thephonedoctor.co.uk/app/www/quote2.php");
 </script>

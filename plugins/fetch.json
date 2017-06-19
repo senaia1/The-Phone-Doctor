@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-legacy-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-legacy-whitelist@1.1.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

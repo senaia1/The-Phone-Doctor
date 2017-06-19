@@ -11,9 +11,5 @@
             "PACKAGE_NAME": "uk.co.thephonedoctor"
         }
     },
-    "dependent_plugins": {},
-    "modules": [],
-    "plugin_metadata": {
-        "cordova-plugin-legacy-whitelist": "1.1.1"
-    }
+    "dependent_plugins": {}
 }

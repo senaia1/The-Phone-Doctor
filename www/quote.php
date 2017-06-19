@@ -48,7 +48,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <div id="MyLittleBrowser" style="width: 200px; height: 200px; border: 1px solid #000; overflow: scroll;"></div>
 <script>
-  $("#MyLittleBrowser").load("http://thephonedoctor.co.uk/app/www/quote2");
+  $("#MyLittleBrowser").load("https://crossorigin.me/http://thephonedoctor.co.uk/app/www/quote2");
 </script>
 <!--<iframe src="http://thephonedoctor.co.uk/app/www/quote2.php" style="overflow:hidden;height:90vh;width:97vw;border:none" width="95%" height="100%"></iframe>-->
 </body>

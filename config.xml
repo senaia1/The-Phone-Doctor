@@ -9,6 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+	<plugin name="cordova-plugin-legacy-whitelist" spec="1.1.1" />
+<access origin="https://crossorigin.me" />
 	
 	<!-- all platforms -->
   <preference name="orientation" value="portrait" />
